@@ -30,7 +30,7 @@ def factorial_recursive(n):
     return n * factorial_recursive(n - 1)
 
 
-# Calculate factorials for different values
+
 numbers = [5, 10, 25, 50, 100]
 
 print("Factorial results using an iterative function")
